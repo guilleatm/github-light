@@ -6,7 +6,7 @@
 
 > La instalación en sistemas linux puede ser algo más compleja.
 >
-> Si usas Firefox puede que en el proceso de autenticación el navegador no te redirija de vuelta a la aplicación, prueba con otro navegador. [[*]](https://github.com/desktop/desktop/issues/11408).
+> Si usas Firefox puede que en el proceso de autenticación el navegador no te redirija de vuelta a la aplicación, prueba con otro navegador. [[github issue]](https://github.com/desktop/desktop/issues/11408).
 
 ### Windows
 [Descarga](https://desktop.github.com/download/) para Windows.

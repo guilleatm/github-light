@@ -9,16 +9,16 @@ Un documento markdown puede lucir como algo parecido a esto:
 
 ## Mi documento Markdown
 
-* [Este](https://markdown.es/) es un enlace a una web en castellano en la que se puede aprender markdown.
+* [Este](https://www.markdownguide.org/basic-syntax/) es un enlace a una web en la que se puede aprender markdown.
 * Hay un montón de recursos más como [este otro](https://www.markdowntutorial.com/) por ejemplo. En este caso es un tutorial interactivo!
 * Último punto en **negrita** y en *cursiva*
 
 > ¿Sabes que este mismo documento está hecho en **markdown**?
 
-Podemos poner incluso imágenes!  
+Podemos poner imágenes!  
 ![Imagen](assets/images/frog100x100.jpg)
 
-Incluso podemos usar código HTML dentro de markdown
+Incluso usar código HTML dentro de markdown
 
 <div style="border: 1px solid #309920; padding:10px;">
     Esto es texto dentro de un div verde.
@@ -28,11 +28,11 @@ Incluso podemos usar código HTML dentro de markdown
 
 Eso mismo que vemos arriba se renderiza tal que así:
 
-<div style="border: 4px solid #904060; padding:10px;">
+<!-- <div style="border: 4px solid #904060; padding:10px;"> -->
 
 ### Mi documento Markdown
 
-* [Este](https://markdown.es/) es un enlace a una web en castellano en la que se puede aprender markdown.
+* [Este](https://www.markdownguide.org/basic-syntax/) es un enlace a una web en la que se puede aprender markdown.
 * Hay un montón de recursos más como [este otro](https://www.markdowntutorial.com/) por ejemplo. En este caso es un tutorial interactivo!
 * Último punto en **negrita** y en *cursiva*
 
@@ -47,7 +47,7 @@ Incluso podemos usar código HTML dentro de markdown (aunque no todos los motore
     Esto es texto dentro de un div verde.
 </div>
 
-</div>
+<!-- </div> -->
 
 <br>
 
