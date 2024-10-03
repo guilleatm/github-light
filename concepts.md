@@ -2,7 +2,7 @@
 
 ### Sistema de Control de Versiones
 Herramienta que registra los cambios realizados en archivos a lo largo del tiempo, permitiendo volver a versiones anteriores y ver quién hizo qué cambios.  
-Es como un **historial de cambios** en un documento de Google, donde puedes ver cada modificación y restaurar versiones anteriores si es necesario. [[*]](https://es.wikipedia.org/wiki/Control_de_versiones)
+Es como un **historial de cambios** en un documento de Google, donde puedes ver cada modificación y restaurar versiones anteriores si es necesario. [[wikipedia]](https://es.wikipedia.org/wiki/Control_de_versiones)
 
 ### Repositorio
 
