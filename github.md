@@ -77,7 +77,7 @@ Veremos cómo hacer nuestra propia página web estática en [Github Pages](githu
 
 ## 6. GitHub Actions
 
-**GitHub Actions** es una herramienta integrada que nos permite automatizar flujos de trabajo. Con ella, podemos configurar **CI/CD** (Integración Continua/Despliegue Continuo) [wikipedia](https://es.wikipedia.org/wiki/CI/CD), ejecutar pruebas automáticas, generar builds o realizar cualquier tipo de tarea automatizada cuando se realizan cambios en el repositorio.
+**GitHub Actions** es una herramienta integrada que nos permite automatizar flujos de trabajo. Con ella, podemos configurar **CI/CD** (Integración Continua/Despliegue Continuo) [[wikipedia]](https://es.wikipedia.org/wiki/CI/CD), ejecutar pruebas automáticas, generar builds o realizar cualquier tipo de tarea automatizada cuando se realizan cambios en el repositorio.
 
 ### Usos comunes de GitHub Actions:
 * Ejecutar pruebas automáticas al hacer commits.
