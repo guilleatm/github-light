@@ -95,20 +95,26 @@ Por ejemplo ahora que nosotros hemos hecho cambios, nuestro compañero de proyec
 3. Si hay cambios, hacemos clic en `Pull` para traerlos a nuestro repositorio local.
 
 
-> Todo esto que estamos haciendo mediante interfaz visual, muchas veces se hace mediante comandos, de hecho cuando hablamos de `git` nos refermios a estos comandos y Github Desktop no es más que una interfaz visual que nos ayuda para no tener que memorizar estos comandos. Si veis a alguien utilizar `git` mediante comandos, no os asusteis.
+> Todo esto que estamos haciendo mediante interfaz visual, muchas veces se hace mediante comandos, de hecho cuando hablamos de `git` nos refermios a estos comandos y Github Desktop no es más que una interfaz visual que nos ayuda para no tener que memorizar estos comandos. Si veis a alguien utilizar `git` mediante comandos, no os asusteis. Estos son unos pocos ejemplos de comandos básicos, algunos de ellos los hemos utilizado sin darnos cuenta.
 
 ```bash
-
+# Commit
 git add .
 git commit -m "Esto es un commit"
+
+# Push
 git push -u origin main
 
+# Pull
 git pull
 
+# Crear una rama y llevarnos los cambios a ella
 git checkout -b nueva-rama
+
+# Hacer un merge: origin/main <- nueva-rama
 git merge origin/main nueva-rama
 
+# Ver un historial de commits
 git log
-git status
 
 ```
