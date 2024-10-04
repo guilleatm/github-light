@@ -1,3 +1,7 @@
+---
+nav_enabled: true
+---
+
 remote-theme: just-the-docs
-title: [Github Light]
+title: Github Light
 description: [Documentación para Proyecto Interdisciplinar]

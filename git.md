@@ -1,14 +1,4 @@
-<!-- # Git
-
-[Git](https://git-scm.com/) es un [Sistema de Control de Versiones [*]](concepts.md#sistema-de-control-de-versiones) que nos permite gestionar y hacer un seguimiento de los cambios en nuestros archivos a lo largo del tiempo. Es utilizado para mantener un historial de modificaciones, facilitando la colaboración en proyectos de software.
-
-> Git es extenso y complejo aunque hay mucha [documentación](https://git-scm.com/docs) y tutoriales.
-
-> Es un software [FOSS](https://git-scm.com/about/free-and-open-source) y es utilizado por grandes empresas en el sector tecnológico como Google, Linkedin, Netflix, Twitter o Linux entre otras, puedes ver más información en su [página principal](https://git-scm.com/).
-
-> Como curiosidad, uno de sus creadores es [Linus Torvals](https://es.wikipedia.org/wiki/Linus_Torvalds), padre del Kernel de Linux. -->
-
-# Introducción a Git
+# Git
 
 [Git](https://git-scm.com/) es un [**Sistema de Control de Versiones** [*]](concepts.md#sistema-de-control-de-versiones) que nos permite hacer un seguimiento de los cambios en nuestros archivos a lo largo del tiempo. Es especialmente útil cuando trabajamos en equipo o si necesitamos volver a una versión anterior de nuestro proyecto. En esta guía, aprenderemos los conceptos básicos de Git utilizando herramientas gráficas como **GitHub Desktop**.
 
@@ -29,8 +19,8 @@ El primer paso en Git es crear un **repositorio**, que es donde se almacenarán 
 >
 > Veremos que ha creado un archivo llamado `README.txt` con algo de texto.
 
-<img src="assets/images/gd-start-tutorial.png" alt="Create a repositorio tutorial" width="50%" />
-<img src="assets/images/gd-tutorial-whereis.png" alt="Localizar repositorio" width="50%" />
+<img src="assets/images/gd-start-tutorial.png" alt="Create a repositorio tutorial" width="49%" />
+<img src="assets/images/gd-tutorial-whereis.png" alt="Localizar repositorio" width="49%" />
 
 
 > A partir de aquí vamos a diverger del tutorial de Github Desktop ya que no nos interesa tanto las ramas y las pull requests por ahora pero dejamos que despues de acabar la lectura prosigais con el tutorial de la aplixaxión.
@@ -79,8 +69,8 @@ Una vez hemos hecho el push, si nos vamos a la [Web de Github](https://github.co
 
 Si entramos, podemos ver los contenidos y commits entre muchas otras cosas.
 
-<img src="assets/images/gh-repo.png" alt="Github repo" width="50%" />
-<img src="assets/images/gh-commits.png" alt="Github commits" width="50%" />
+<img src="assets/images/gh-repo.png" alt="Github repo" width="49%" />
+<img src="assets/images/gh-commits.png" alt="Github commits" width="49%" />
 
 
 
@@ -118,3 +108,9 @@ git merge origin/main nueva-rama
 git log
 
 ```
+
+> Git es extenso y complejo aunque hay mucha [documentación](https://git-scm.com/docs) y tutoriales.
+
+> Es un software [FOSS](https://git-scm.com/about/free-and-open-source) y es utilizado por grandes empresas en el sector tecnológico como Google, Linkedin, Netflix, Twitter o Linux entre otras, puedes ver más información en su [página principal](https://git-scm.com/).
+
+> Como curiosidad, uno de sus creadores es [Linus Torvals](https://es.wikipedia.org/wiki/Linus_Torvalds), padre del Kernel de Linux.
