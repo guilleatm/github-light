@@ -1,3 +1,8 @@
+---
+nav_enabled: true
+title: Manin
+---
+
 # Index
 
 * [Conceptos](concepts.md)
