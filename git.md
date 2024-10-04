@@ -79,7 +79,7 @@ Una vez hemos hecho el push, si nos vamos a la [Web de Github](https://github.co
 
 Si entramos, podemos ver los contenidos y commits entre muchas otras cosas.
 
-<img src="assets/images/gh-repo.png" alt="Github commits" width="50%" />
+<img src="assets/images/gh-repo.png" alt="Github repo" width="50%" />
 <img src="assets/images/gh-commits.png" alt="Github commits" width="50%" />
 
 
