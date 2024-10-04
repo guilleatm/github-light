@@ -29,8 +29,8 @@ El primer paso en Git es crear un **repositorio**, que es donde se almacenarán 
 >
 > Veremos que ha creado un archivo llamado `README.txt` con algo de texto.
 
-<img src="assets/images/gd-start-tutorial.png" alt="Create a repositorio tutorial" width="33%" />
-<img src="assets/images/gd-tutorial-whereis.png" alt="Localizar repositorio" width="33%" />
+<img src="assets/images/gd-start-tutorial.png" alt="Create a repositorio tutorial" width="50%" />
+<img src="assets/images/gd-tutorial-whereis.png" alt="Localizar repositorio" width="50%" />
 
 
 > A partir de aquí vamos a diverger del tutorial de Github Desktop ya que no nos interesa tanto las ramas y las pull requests por ahora pero dejamos que despues de acabar la lectura prosigais con el tutorial de la aplixaxión.
@@ -73,14 +73,14 @@ Ahora que ya tenemos guardado nuestros cambios en nuestro repositorio local, es 
 
 Una vez hemos hecho el push, si nos vamos a la [Web de Github](https://github.com/) y entramos en nuestro perfil, veremos que tenemos un nuevo repositorio.
 
-<img src="assets/images/gh-repos.png" alt="Github repos" width="33%" />
+<img src="assets/images/gh-repos.png" alt="Github repos" />
 <br>
 <br>
 
 Si entramos, podemos ver los contenidos y commits entre muchas otras cosas.
 
-<img src="assets/images/gh-repo.png" alt="Github commits" width="33%" />
-<img src="assets/images/gh-commits.png" alt="Github commits" width="33%" />
+<img src="assets/images/gh-repo.png" alt="Github commits" width="50%" />
+<img src="assets/images/gh-commits.png" alt="Github commits" width="50%" />
 
 
 
