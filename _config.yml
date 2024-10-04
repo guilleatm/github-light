@@ -5,4 +5,5 @@ title: Github Light
 
 remote-theme: just-the-docs
 title: Github Light
-description: [Documentación para Proyecto Interdisciplinar]
+description: Documentación para Proyecto Interdisciplinar
+search_enabled: true
