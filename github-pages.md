@@ -9,11 +9,11 @@ La otra forma es hacer una página web 'convencional' con **HTML**, **CSS** y **
 
 ## Web Markdown
 
-> Antes de nada deberíamos saber qué es [**Markdown**](markdown-intro.md) y cómo [Escribir Markdown](markdown-syntax.md). Si no has leído esos apartados es un buen momento.
+> Antes de nada deberíamos saber qué es [Markdown](markdown-intro.md) y cómo [Escribir Markdown](markdown-syntax.md). Si no has leído esos apartados es un buen momento.
 
 Lo primero que necesitamos es un repositorio en GitHub que contendrá los archivos de nuestro sitio web.  
 
-> Podemos utilizar el repositorio que creamos en [Git](git.md) `desktop-tutorial` o crear uno nuevo.
+> Podemos utilizar el repositorio que creamos en [Git](git.md) (`desktop-tutorial`) o crear uno nuevo.
 >
 > Como es obvio nuestro repositorio tiene que ser público. Si hemos creado uno privado o estamos utilizando `desktop-tutorial` podemos cambiar la visibilidad en `Settings > General > Danger Zone >  Change repository visibility`.
 
@@ -51,7 +51,7 @@ Nosotros utilizaremos `root/`.
 Una vez activemos Github Pages, github se encargará de lanzar la página mediante las `Github Actions`. En la página principal, en la parte `deployments` veremos el estado actual de la web, una vez finalice veremos el enlace en el que podemos acceder a ella.
 
 <img src="assets/images/gh-pages-deploying.png" />
-<img src="assets/images/gh-pages-deployed.png.png" />
+<img src="assets/images/gh-pages-deployed.png" />
 
 ### Tema
 
@@ -61,21 +61,21 @@ Podemos añadir un tema facilmente a nuestra web. Si nos fijamos, al activar Git
 
 Podemos leer [cómo añadir un tema](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll) y los [temas que github soprta](https://pages.github.com/themes/).
 
-> Aunque recomendamos leer detenidamente esta documentación, puede probar a añadir a tu documento `_conf.yml` la siguiente línea: `theme: jekyll-theme-minimal`.
+> Aunque recomendamos leer detenidamente esta documentación, podemos probar a añadir a nuestro documento `_conf.yml` la siguiente línea: `theme: jekyll-theme-minimal`. Con este cambio tan sencillo, al subir los cambios, github debería desplegar correctamente la web utilizando el tema `minimal`.
 
-> Recuerda que puede enlazar un documento `.md` con otro utilizando enlaces con rutas relativas. `Enlace a [mi otro documento](mi-otro-documento.md)`. Así es como funciona la navegación en esta web.
+> Recuerda que podemos enlazar un documento `.md` con otro utilizando enlaces con rutas relativas. `Enlace a [Mi otro documento](mi-otro-documento.md)`. Así es como funciona la navegación en esta web.
 
 
 ## Web con HTML, CSS y javascript
 
-Para tener más control sobre el diseño y la funcionalidad de nuestro sitio, podemos crear una web con estándar (HTML, CSS, javascript) y alojarla en github 'gratuitamente'[*](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages). 
+Para tener más control sobre el diseño y la funcionalidad de nuestro sitio, podemos crear una web estándar (HTML, CSS y javascript) y alojarla en github [*](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)gratuitamente. 
 
-Para este punto, daremos por hecho que el lector sabe cómo funciona una página web 'normal'.
+Para este punto, daremos por hecho que el lector sabe cómo funciona una página web 'convencional'.
 
 Utilizar github como hosting es tan sencillo como crear un repositorio que contenga nuestra web, al igual que en la sección [Web Markdown](#web-markdown) podemos elegir si el repositorio es la web o la web está en `docs`.
 
-Podeis
-* Descargar la web que hemos preparado ([Ver web](https://guilleatm.github.io/demo-web/)) ([Descargar Web](https://guilleatm.github.io/demo-web/))
+Podemos:
+* Descargar la web que hemos preparado ([Ver web](https://guilleatm.github.io/demo-web/)) ([Descargar web](https://github.com/guilleatm/demo-web))
 * Utilizar la vuestra propia.
 * Crear una con el siguiente código.
 

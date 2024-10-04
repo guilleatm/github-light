@@ -1,9 +1,8 @@
 # Index
-
-* [Conceptos](concepts.md)
-* [Git](git.md)
-* [Github](github.md)
-* [Github Pages](github-pages.md)
-* [Instalar Github Desktop](github-desktop-install.md)
-* [Introducción Markdown](markdown-intro.md)
-* [Sinaxis Markdown](markdown-syntax.md)
+## [Git](git.md)
+### [Instalar Github Desktop](github-desktop-install.md)
+## [Github](github.md)
+### [Introducción Markdown](markdown-intro.md)
+### [Sinaxis Markdown](markdown-syntax.md)
+### [Github Pages](github-pages.md)
+## [Conceptos](concepts.md)
