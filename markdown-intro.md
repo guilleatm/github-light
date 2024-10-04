@@ -51,4 +51,8 @@ Incluso podemos usar código HTML dentro de markdown (aunque no todos los motore
 
 <br>
 
+> Algunos editores de texto como [Visual Studio Code](https://code.visualstudio.com/) ofrecen por defecto visualización de markdown.  
+> Si creamos un archivo con la extensión `.md` al editarlo veremos la opción para visualizarlo a la vez.  
+> En el propio Github también podemos visualizar el markdown al editar un archivo.
+
 > Ir a **[Sinaxis Markdown](markdown-syntax.md)**
