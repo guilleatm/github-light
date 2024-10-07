@@ -2,6 +2,8 @@
 
 [Git](https://git-scm.com/) es un [**Sistema de Control de Versiones** [*]](concepts.md#sistema-de-control-de-versiones) que nos permite hacer un seguimiento de los cambios en nuestros archivos a lo largo del tiempo. Es especialmente útil cuando trabajamos en equipo o si necesitamos volver a una versión anterior de nuestro proyecto. En esta guía, aprenderemos los conceptos básicos de Git utilizando herramientas gráficas como **GitHub Desktop**.
 
+> Recomendamos antes de nada ver [este vídeo](https://www.youtube.com/watch?v=ohNkP2_9Duw). Es especialmente útil ya que consigue que nos quedemos con una idea más visual de cómo funciona git. No es necesario quedarse con los comandos pero sí con los conceptos.
+
 > Para entender y asimilar los conceptos vamos a leer a la vez que realizamos un ejercicio. Utilizaremos **Github Desktop** con lo que antes de nada hemos de instalarlo.  
 > Si no lo tienes instalado ve a la [**Guía de Instalación de Github Desktop**](github-desktop-install.md).
 
