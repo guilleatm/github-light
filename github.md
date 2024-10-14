@@ -15,10 +15,27 @@ Por ejemplo, este es el [repositorio de **Godot**](https://github.com/godotengin
 
 **Issues** es una herramienta que nos permite gestionar tareas, errores o sugerencias de mejora. Podemos asignar issues a miembros del equipo, añadir etiquetas, discutir posibles soluciones y cerrar los issues una vez que se resuelvan.
 
+[Aquí](https://github.com/guilleatm/github-light/issues/1) teneis un issue para este mismo proyecto en el que hemos seguido el flujo de trabajo normal.
+
+1. Alguien reporta un problema y abre un issue explicándolo
+2. Alguien revisa el problema y lo soluciona en una rama paralela para no interferir con la principal
+3. Se abre un [pull request](concepts.md#pull-request) con la solución para integrarla en la rama principal
+3. Un administrador del repositorio revisa los cambios y, o bien los acepta, o los deniega
+
+> Recordemos que un `pull request` no es más que pedir a quien administra el repositorio que incluya nuestros commits 
+
+> En los proyectos de código abierto, muchas veces quien abre un `issue` es un usuario externo, es decir alguien que está usando nuestro código y encuentra un bug.
+> En nuestro caso, alguien que está leyendo la web.
+>
+> Algunas veces, es el mismo usuario el que propone los cambios, es decir que arregla el problema y abre un pull request.
+>
+> Un administrador del repositorio es el que se encarga de revisar estos cambios y aceptarlos o denegarlos.
+
 Estos son los [issues que la gente va reportando](https://github.com/godotengine/godot/issues?q=is%3Aissue+is%3Aopen+) en el repositorio de Godot, podeis entrar en cualquiera de ellos para ver el problema que estan teniendo y las conversaciones con los desarrolladores.
 
 <img src="assets/images/gh-issues.png" alt="Github issues" />
 
+<hr>
 <br>
 
 GitHub también ofrece la funcionalidad de **Proyectos** que nos permite organizar nuestras tareas en tableros visuales, facilitando el seguimiento del progreso del equipo. Es una especie de [Trello](https://trello.com/) aunque no es tan intuitivo de entender.
