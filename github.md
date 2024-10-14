@@ -71,7 +71,7 @@ Esta misma documentación está hecha con Github Pages. Seguramente os habeis da
 
 Veremos cómo hacer nuestra propia página web estática en [Github Pages](github-pages.md). Lo haremos utilizando markdown (como esta página) y utilizando HTML, CSS y Javascript como esta otra [Web que hemos preparado](https://guilleatm.github.io/demo-web/).
 
-<img src="assets/images/gh-pages-config.png" alt="Github pages configuration" />
+<img src="assets/images/gh-settings-pages-deployment.png" alt="Github pages configuration" />
 
 
 
