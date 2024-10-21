@@ -21,7 +21,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
-          input_dir: .
+          input_dir: root/
           output_dir: pdfs
           images_dir: assets/images
           image_import: ./assets/images
