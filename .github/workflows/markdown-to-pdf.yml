@@ -1,6 +1,6 @@
 # .github/workflows/convert-to-pdf.yml
 
-name: Docs to PDF
+name: Markdown to PDF
 # This workflow is triggered on pushes to the repository.
 on:
   push:
@@ -23,10 +23,10 @@ jobs:
         with:
           input_dir: ./
           output_dir: pdfs
-          images_dir: assets/images
-          image_import: ./
+          images_dir: ./assets/images
+          image_import: ./assets/images
           build_html: false
       - uses: actions/upload-artifact@v3
         with:
           name: pdfs
-          path: ./
+          path: pdfs
