@@ -151,7 +151,6 @@ jobs:
 
 En nuestra configuración, hemos especificado que este workflow se ejecutará cuando se haga un `push` en la rama `main`. Ver [`gh-actions` `on`](https://docs.github.com/en/actions/writing-workflows/workflow-syntax-for-github-actions#on).
 
-# IMAGE
 
 ```yaml
 on:
@@ -161,6 +160,8 @@ on:
   workflow_dispatch:  # Manual trigger
 ```
 Además el `workflow_dispatch` especifica que se pueda ejecutar el workflow de forma manual.
+
+![Workflow dispatch](assets/images/gh-actions-workflow-dispatch.png)
 
 ### 4. Disfrutar del Workflow
 
@@ -176,3 +177,8 @@ Podemos entrar y ver los detalles así como los errores en el caso de que fallas
 
 
 ![Workflow run](assets/images/gh-actions-workflow-run.png)
+
+
+![Workflow run log](assets/images/gh-actions-workflow-run-log.png)
+
+Ahora nunca más tendremos que preocuparnos de generar los `pdf`s a mano, cada vez que hagamos un cambio en la documentación se generaran automáticamente.
