@@ -44,3 +44,7 @@ Es como **proponer una mejora** en un proyecto en equipo, para que los demás lo
 
 Acción de copiar un repositorio remoto a tu ordenador para trabajar en él localmente.  
 Es como **hacer una copia** de una carpeta compartida de la nube para trabajar en ella en tu propio ordenador.
+
+### Artifact
+
+Es como se llama al output que genera un workflow

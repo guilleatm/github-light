@@ -7,11 +7,10 @@ on:
     branches:
       - main
       # - feature/markdown-to-pdf
-    workflow_dispatch:  # Manual trigger
-    # # Paths can be used to only trigger actions when you have edited certain files, such as a file within the /docs directory
     # paths:
     #   - 'docs/**.md'
     #   - 'docs/images/**'
+  workflow_dispatch:  # Manual trigger
 
 jobs:
   converttopdf:
@@ -26,7 +25,7 @@ jobs:
           images_dir: ./assets/images
           image_import: assets/images
           build_html: false
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: pdfs
           path: pdfs

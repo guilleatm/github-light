@@ -107,3 +107,5 @@ Markdown también soporta la creación de tablas, como la que estamos utilizando
 |------------------------------------------|-----------------------------------------|
 | Soy la primera celda de la tabla!        | Y yo la segunda                         |
 | Hola hola hola                           | Pues eso, que podemos poner más         |
+
+> Ir a **[Github Pages](github-pages.md)**

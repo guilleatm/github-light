@@ -2,7 +2,7 @@
 
 ## Introducción
 
-*YAML* es un formato de serialización de datos legible por humanos, ampliamente utilizado para definir configuraciones debido a su simplicidad. No es un lenguaje de marcas, sino una forma de codificar datos de forma legible.
+*YAML* es un formato de serialización de datos legible por humanos, ampliamente utilizado para definir configuraciones debido a su simplicidad. No es un lenguaje de marcas, sino una forma de codificar datos de formato legible.
 
 En ese sentido es parecido al formato `.json` aunque tiene una sintaxis completamente diferente.
 
@@ -107,3 +107,5 @@ github_options:
         - access_to_stats
         - all_other_features
 ```
+
+> Ir a **[Github Actions](github-actions.md)**
