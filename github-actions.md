@@ -67,7 +67,9 @@ Hemos preparado una [breve introducción a YAML](yaml.md), léela antes de conti
 
 Una de las cosas clave es el uso de las actions. En este caso estamos usando la versión 4 del action checkout (`uses: actions/checkout@v4`). Podemos ver el código de este action [aquí](https://github.com/actions/checkout). Este action copia el contenido de nuestro repositorio a la máquina virtual.
 
-> Dejamos aquí la documentación de github relevante para ampliar conocimientos: [Documentación workflows](https://docs.github.com/en/actions/writing-workflows/quickstart) | [Sintaxis `YAML` para `gh-actions`](https://docs.github.com/en/actions/writing-workflows/workflow-syntax-for-github-actions)
+> Dejamos aquí la documentación de github relevante para ampliar conocimientos:
+> * [Documentación workflows](https://docs.github.com/en/actions/writing-workflows/quickstart)
+> * [Sintaxis `YAML` para `gh-actions`](https://docs.github.com/en/actions/writing-workflows/workflow-syntax-for-github-actions)
 
 
 ---
